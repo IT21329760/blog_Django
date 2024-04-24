@@ -1,8 +1,8 @@
 # blog_Django
 
 shell
-mkdir django-blog \n
-cd django-blog\n\n
+mkdir django-blog
+cd django-blog
 
 windows power shell
 python -m venv venv
